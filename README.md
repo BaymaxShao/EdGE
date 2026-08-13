@@ -1,24 +1,12 @@
-# EdGE-infer
+# EdGE: Streaming Endoscopy Geometry Estimation
 
-**Depth estimation** inference package for endoscopic RGB images and videos.
+**Generalizable Zero-shot** Depth Estimation tool for endoscopic RGB images and videos.
 
+As the inference code from 
 
-## Layout
+### **EdGE: A Foundation Model for Streaming Geometry Estimation from Monocular Endoscopic Observation**
 
-```
-EdGE-infer/
-  edge/                 # model + streaming session
-    models/edge.py      # Edge network
-    session.py          # EdgeSession (KV-cache streaming)
-    models/components/  # aggregator / heads / layers
-  weights/
-    model.safetensors   # trained weights
-  infer.py              # CLI for image / video
-  scripts/
-    run_demo.sh
-  requirements.txt
-  README.md
-```
+### **TMI 2026**
 
 ## Install
 
@@ -32,7 +20,7 @@ pip install -r requirements.txt
 conda install -c conda-forge ffmpeg -y
 ```
 
-Place weights at `weights/model.safetensors` (or pass `--weights`).
+Dowload pretrained weightPlace weights at `weights/model.safetensors` (or pass `--weights`).
 
 ## Quick start
 
@@ -95,7 +83,5 @@ session.clear()
 
 - Model input defaults to **280×224** (multiples of 14). Larger `--width`/`--height` usually improves depth quality at the cost of speed.
 - After inference, depth is **resized back to the original image/video resolution** by default. Override with `--out_width` / `--out_height`.
-- Depth is **relative** (metric scale needs GT / median alignment if required).
-- CUDA graphs are **on by default** after the first frame; use `--no_cuda_graphs` to disable.
 - OpenCV cannot decode some AV1 files; `infer.py` uses **ffmpeg** pipes instead.
 
