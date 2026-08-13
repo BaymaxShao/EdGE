@@ -1,12 +1,25 @@
+      
 # EdGE: Streaming Endoscopy Geometry Estimation
 
-**Generalizable Zero-shot** Depth Estimation tool for endoscopic RGB images and videos.
+**Generalizable Zero-shot** _Depth Estimation_ tool for endoscopic RGB images and videos.
 
 As the inference code from 
 
-### **EdGE: A Foundation Model for Streaming Geometry Estimation from Monocular Endoscopic Observation**
-
-### **TMI 2026**
+<div align="center">
+  
+---
+  
+<var>
+<h2> EdGE: A Foundation Model for Streaming Geometry Estimation from Monocular Endoscopic Observation </h2>
+<h3> <a href='https://baymax-shao.netlify.app/'>Liangjing Shao</a><sup>1,2</sup>, Jinsong Lin<sup>1</sup>, Mingwu Su<sup>1</sup>, Rulin Zhou<sup>1,2</sup>, Haoxuan Wu<sup>1</sup>, Hongliang Ren<sup>1,2</sup> </h3>
+<h4> <sup>1</sup>The Chinese University of Hong Kong  <sup>2</sup>Shenzhen Loop Area Institute</h4>
+<h3> IEEE Transactions on Medical Imaging (TMI) 2026 </h3>
+</var> 
+  
+| **[[arXiv](<https://arxiv.org/abs/2307.05182>)]** | **[[Paper](<https://link.springer.com/chapter/10.1007/978-3-031-43996-4_38>)]** |
+|:-------------------:|:-------------------:|
+---
+</div>
 
 ## Install
 
