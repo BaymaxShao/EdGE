@@ -11,8 +11,8 @@ As the inference code from
   
 <var>
 <h2> EdGE: A Foundation Model for Streaming Geometry Estimation from Monocular Endoscopic Observation </h2>
-<h3> <a href='https://baymax-shao.netlify.app/'>Liangjing Shao</a><sup>1,2</sup>, Jinsong Lin<sup>1</sup>, Mingwu Su<sup>1</sup>, Rulin Zhou<sup>1,2</sup>, Haoxuan Wu<sup>1</sup>, Hongliang Ren<sup>1,2</sup> </h3>
-<h4> <sup>1</sup>The Chinese University of Hong Kong  <sup>2</sup>Shenzhen Loop Area Institute</h4>
+<h4> <a href='https://baymax-shao.netlify.app/'>Liangjing Shao</a><sup>1,2</sup>, Jinsong Lin<sup>1</sup>, Mingwu Su<sup>1</sup>, Rulin Zhou<sup>1,2</sup>, Haoxuan Wu<sup>1</sup>, Hongliang Ren<sup>1,2</sup> </h4>
+<h5> <sup>1</sup>The Chinese University of Hong Kong  <sup>2</sup>Shenzhen Loop Area Institute</h5>
 <h3> IEEE Transactions on Medical Imaging (TMI) 2026 </h3>
 </var> 
   
