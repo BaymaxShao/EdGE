@@ -22,8 +22,9 @@ As the inference code from
 </div>
 
 ## Examples
-#### Zero-shot example for Cholecystectomy
-![](assets/exp1.mp4)
+#### Zero-shot examples for Cholecystectomy
+
+#### Zero-shot example for Hysterectomy
 
 ## Install
 
