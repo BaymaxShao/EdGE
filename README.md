@@ -30,6 +30,9 @@ As the inference code from
 #### Zero-shot example for Hysterectomy
 ![](assets/exp3.gif)
 
+#### Zero-shot example for Suturing
+![](assets/exp4.gif)
+
 ## Install
 
 ```bash
