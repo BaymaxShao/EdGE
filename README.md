@@ -23,8 +23,12 @@ As the inference code from
 
 ## Examples
 #### Zero-shot examples for Cholecystectomy
+![](assets/exp1.gif)
+
+![](assets/exp2.gif)
 
 #### Zero-shot example for Hysterectomy
+![](assets/exp3.gif)
 
 ## Install
 
