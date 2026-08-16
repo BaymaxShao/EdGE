@@ -33,7 +33,7 @@ pip install -r requirements.txt
 conda install -c conda-forge ffmpeg -y
 ```
 
-Dowload pretrained weightPlace weights at `weights/model.safetensors` (or pass `--weights`).
+Dowload pretrained weight from [Google Drive](https://drive.google.com/file/d/1F0m2Q0rTPo58yQz2EPVAqVHqY4nTyowW/view?usp=sharing) and Place weights at `weights/model.safetensors` (or pass `--weights`).
 
 ## Quick start
 
