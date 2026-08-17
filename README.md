@@ -99,8 +99,6 @@ depth = pred["depth"][0, -1].float().cpu().numpy()  # HxWx1 or HxW
 session.clear()
 ```
 
-`EdgeSession` uses **bank** mode: GPU memory bank + short working KV (`window_size`).
-
 ## Notes
 
 - Model input defaults to **280×224** (multiples of 14). Larger `--width`/`--height` usually improves depth quality at the cost of speed.
