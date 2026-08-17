@@ -3,8 +3,6 @@
 
 **Generalizable Zero-shot** _Geometry Estimation_ tool for endoscopic RGB images and videos.
 
-As the inference code from 
-
 <div align="center">
   
 ---
@@ -21,15 +19,15 @@ As the inference code from
 
 ## Examples
 
-#### Zero-shot examples for Cholecystectomy
+#### Zero-shot Depth Estimation for Cholecystectomy
 ![](assets/exp1.gif)
 
 ![](assets/exp2.gif)
 
-#### Zero-shot example for Hysterectomy
+#### Zero-shot Depth Estimation for Hysterectomy
 ![](assets/exp3.gif)
 
-#### Zero-shot example for Suturing
+#### Zero-shot Depth Estimation for Suturing
 ![](assets/exp4.gif)
 
 ## Install
