@@ -1,7 +1,7 @@
       
 # EdGE: Streaming Endoscopy Geometry Estimation
 
-**Generalizable Zero-shot** _Depth Estimation_ tool for endoscopic RGB images and videos.
+**Generalizable Zero-shot** _Geometry Estimation_ tool for endoscopic RGB images and videos.
 
 As the inference code from 
 
