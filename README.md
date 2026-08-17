@@ -19,6 +19,12 @@
 
 ## Examples
 
+#### Zero-shot Scene Reconstruction for Colonoscopy
+![](assets/exp_col.gif)
+
+#### Zero-shot Scene Reconstruction for ERCP
+![](assets/exp_ercp.gif)
+
 #### Zero-shot Depth Estimation for Cholecystectomy
 ![](assets/exp1.gif)
 
