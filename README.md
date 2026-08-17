@@ -20,9 +20,6 @@ As the inference code from
 </div>
 
 ## Examples
-#### Zero-shot examples for Colonoscopy
-
-#### Zero-shot examples for ERCP
 
 #### Zero-shot examples for Cholecystectomy
 ![](assets/exp1.gif)
